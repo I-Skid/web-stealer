@@ -5,6 +5,9 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510"></img>
 </div>
 
+## Platforms
+
+Windows, macOS, Linux, and any other operating system that has a web browser capable of running JavaScript (including Samsung Smart Fridge).
 
 ## Setup
 
