@@ -1,7 +1,5 @@
 <h1 align="center">Web Stealer</h1>
 
-### also works as a bookmark, also works if paste in console and ran.
-
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510"></img>
 </div>
