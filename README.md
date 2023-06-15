@@ -2,13 +2,13 @@
 
 <p align="center"> 
   <kbd>
-    <img src="https://img.shields.io/github/languages/top/I-Skid/skid-stealer">
-    <img src="https://img.shields.io/github/stars/I-Skid/skid-stealer">
-    <img src="https://img.shields.io/github/commit-activity/w/I-Skid/skid-stealer">
-    <img src="https://img.shields.io/github/last-commit/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/languages/top/I-Skid/discord-web-token-grabber">
+    <img src="https://img.shields.io/github/stars/I-Skid/discord-web-token-grabber">
+    <img src="https://img.shields.io/github/commit-activity/w/I-Skid/discord-web-token-grabber">
+    <img src="https://img.shields.io/github/last-commit/I-Skid/discord-web-token-grabber">
     <br>
-    <img src="https://img.shields.io/github/issues/I-Skid/skid-stealer">
-    <img src="https://img.shields.io/github/issues-closed/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/issues/I-Skid/discord-web-token-grabber">
+    <img src="https://img.shields.io/github/issues-closed/I-Skid/discord-web-token-grabber">
   </kbd>
 </p>
 
