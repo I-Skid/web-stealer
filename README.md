@@ -1,7 +1,7 @@
 <h2 align="center">JavaScript Discord Token Grabber with Redirect Bypass to Overcome Webhook Request Blocks</h2>
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1118718518427402283/1118981277303984128/image.png?width=661&height=510"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510"></img>
 </div>
 
 
