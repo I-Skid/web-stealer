@@ -1,3 +1,4 @@
+<h1 align="center">Web Stealer</h1>
 <h2 align="center">JavaScript Discord Token Grabber with Redirect Bypass to Overcome Webhook Request Blocks</h2>
 
 <div align="center">
