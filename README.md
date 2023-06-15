@@ -1,5 +1,17 @@
 <h2 align="center">This is a JavaScript + Python Discord token grabber with a redirect bypass to overcome webhook request blocks.</h2>
 
+<p align="center"> 
+  <kbd>
+    <img src="https://img.shields.io/github/languages/top/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/stars/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/commit-activity/w/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/last-commit/I-Skid/skid-stealer">
+    <br>
+    <img src="https://img.shields.io/github/issues/I-Skid/skid-stealer">
+    <img src="https://img.shields.io/github/issues-closed/I-Skid/skid-stealer">
+  </kbd>
+</p>
+
 ## Setup
 
 #### [YouTube Tutorial (for lazy people)](https://www.youtube.com/watch?v=NGU9GOXnNOA)
