@@ -25,5 +25,5 @@ This program is for educational purposes only. I am not liable for any damage ca
 
 ## Encountering Errors?
 
-- [Open an issue](https://github.com/I-Skid/discord-web-token-grabber/issues).
-- [Join the Discord server](https://discord.gg/MqF9pcrgsf).
+- [Open an issue](https://github.com/I-Skid/web-stealer/issues).
+- [Join the Discord server](https://discord.gg/CUdzAEyYVK).
