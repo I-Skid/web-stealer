@@ -1,10 +1,11 @@
-# [Web Stealer](https://discord.gg/CUdzAEyYVK)
+# Web Stealer
 
 ![Web Stealer](https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510)
 
 ## Logs
 
-- **July 14, 2023**: Updated the server. Rewrote [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.js) in Node.js for better compatibility.
+- **July 14, 2023**: Rewrote [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.js) in Node.js for people who want to use node.js instead of python, no difference.
+- **Aug 14, 2023**: One month later, made a new discord server for support and questions, join [here](https://discord.gg/CUdzAEyYVK).
 
 ## Platforms
 
