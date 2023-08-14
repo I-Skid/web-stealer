@@ -1,4 +1,4 @@
-! [Web Stealer](https://discord.gg/CUdzAEyYVK)
+# [Web Stealer](https://discord.gg/CUdzAEyYVK)
 
 ![Web Stealer](https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510)
 
