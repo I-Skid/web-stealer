@@ -2,11 +2,6 @@
 
 ![Web Stealer](https://media.discordapp.net/attachments/1118718518427402283/1118982884515135600/image.png?width=623&height=510)
 
-## Logs
-
-- **July 14, 2023**: Rewrote [`server.py`](https://github.com/I-Skid/web-stealer/blob/main/server.js) in Node.js for those who prefer to use Node.js instead of Python. There's no difference in functionality.
-- **August 14, 2023**: Created a new Discord server for providing support and answering questions. Feel free to join us [here](https://discord.gg/CUdzAEyYVK).
-
 ## Platforms
 
 Compatible with Windows, macOS, Linux, and any other operating system with a web browser capable of running JavaScript (including Samsung Smart Fridge).
@@ -26,4 +21,3 @@ This program is intended for educational purposes only. I am not liable for any 
 ## Encountering Errors?
 
 - [Open an issue](https://github.com/I-Skid/web-stealer/issues).
-- [Join the Discord server](https://discord.gg/CUdzAEyYVK).
