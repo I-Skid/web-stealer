@@ -1,6 +1,6 @@
 # READ
 
-Hello guys its been a long time since i left coding, im back to the community, this code is pretty outdated so im working on fixing it, replit is limiting the amount of stuff it can do so its pretty bad now.
+Hello guys its been a long time since i left coding, im back to the community, this code is pretty outdated and i dont know if its still works so im testing and working on revamping it, replit is limiting the amount of stuff it can do so its pretty bad now.
 
 # Web Stealer
 
