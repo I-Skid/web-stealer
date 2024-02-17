@@ -1,4 +1,4 @@
-went downgrade a lil bit but the code works now as of 2/16/2024
+went downgrade a lil bit but the code works now as of 2/16/2024, this used to be more advanced and better, but some methods have been limited and dont work, this is the only part of the code that actually works now.
 
 instructions:
 
